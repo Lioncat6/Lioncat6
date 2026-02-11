@@ -1,3 +1,5 @@
+<div align="center">
+  
 #### I exist sometimes :3
 
 
@@ -11,7 +13,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lioncat6&theme=jolly&mode=weekly&stroke=00FFCE&border=00FFCE)](https://git.io/streak-stats)
 
-### Currently working on:
+</div>
+
+### What I'm currently working on:
 - [SAMBL](https://github.com/Lioncat6/SAMBL-React) [🔗](https://sambl.lioncat6.com)
   - By far been dumping the most time into
   - Streaming services are mean, I've discovered
@@ -20,7 +24,7 @@
   - Very, *very* early stages
   - Imagine lrclib + MusixMatch + Rush Lyrics
 
-### What I should be working on:
+### What I _should_ be working on:
 - Some sort of proper blog ish site
 - [OCT](https://github.com/Lioncat6/OSC-Chat-Tools/)
 
