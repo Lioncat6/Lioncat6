@@ -4,12 +4,12 @@
 
 
 
-@Lioncat6 on discord
+_@Lioncat6_ on most things that you can message people on
 <br><sup><i>`Please message before adding!`</i></sup>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5T3CJX)
 
-<!-- ![Lioncat6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat6&theme=cobalt&show_icons=true) -->
+![Lioncat6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat6&theme=jolly&show_icons=true&text_color=00FFCE&border_color=00FFCE)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lioncat6&theme=jolly&mode=weekly&stroke=00FFCE&border=00FFCE)](https://git.io/streak-stats)
 
@@ -29,3 +29,4 @@
 - [OCT](https://github.com/Lioncat6/OSC-Chat-Tools/)
 
 ### Cool projects:
+<sup><i>`Something will be here eventually...`</i></sup>
