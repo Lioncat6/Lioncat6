@@ -28,5 +28,11 @@ _@Lioncat6_ on most things that you can message people on
 - Some sort of proper blog ish site
 - [OCT](https://github.com/Lioncat6/OSC-Chat-Tools/)
 
+### Things I want to learn more of
+- VRSL / MDMX
+- Blender modeling
+- Shader code
+- VRC World building
+
 ### Cool projects:
 <sup><i>`Something will be here eventually...`</i></sup>
